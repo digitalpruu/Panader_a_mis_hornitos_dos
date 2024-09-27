@@ -19,7 +19,7 @@
   },
   "mainHero": {
     "title": "Panadería ",
-    "subtitle": "mis hornitos.",
+    "subtitle": "mis hornitos 2",
     "description": "",
     "img": "/assets/images/1.png",
     "primaryAction": {
@@ -42,7 +42,7 @@
       {
         "title": "Nuestra Promesa",
         "description": "Panadería Mis Hornitos es conocida por sus panes frescos y esponjosos, horneados diariamente para asegurar la máxima frescura y sabor. Nuestro compromiso es la calidad y la satisfacción del cliente.",
-        "img": "/assets/images/1.png"
+        "img": "/assets/images/3.png"
       }
     ]
   },
@@ -53,22 +53,22 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 313 5576172",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "joseoverleon17@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
+        "name": "Tiktok",
+        "description": "@josoverlen",
+        "icon": "/assets/images/tiktok.png"
       },
       {
         "name": "Facebook",
-        "description": "Mi Negocio",
+        "description": "Jose Over Leon",
         "icon": "/assets/images/facebook.jpg"
       }
     ]
