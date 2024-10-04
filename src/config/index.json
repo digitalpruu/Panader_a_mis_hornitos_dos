@@ -65,12 +65,13 @@
         "name": "Tiktok",
         "description": "@josoverlen",
         "icon": "/assets/images/tiktok.png",
-        "url":""
+        "url":"https://www.tiktok.com/@josoverlen?_t=8q3PWa0dolK&_r=1"
       },
       {
         "name": "Facebook",
         "description": "Jose Over Leon",
-        "icon": "/assets/images/facebook.jpg"
+        "icon": "/assets/images/facebook.jpg",
+        "url":"https://www.facebook.com/joseover.leon.7?mibextid=ZbWKwL"
       }
     ]
   },
